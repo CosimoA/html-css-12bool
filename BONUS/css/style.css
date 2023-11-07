@@ -1,0 +1,54 @@
+
+/* DEBUG */
+
+*{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+h3, h4{
+    color: black;
+    text-align: left;
+}
+
+#green{
+    background-color: rgb(0, 255, 0);
+    color: rgb(0, 255, 0);
+}
+
+#h80{
+    height: 80px;
+}
+
+#h40{
+    height: 40px;
+}
+
+#padding{
+    padding: 3px;
+}
+
+.center{
+    justify-content: center;
+}
+
+.end{
+    justify-content: flex-end;
+}
+
+.vcenter{
+    align-self: center;
+}
+
+.bottom{
+    align-self: flex-end;
+}
+
+.around{
+    justify-content: space-around;
+}
+
+.between{
+    justify-content: space-between;
+}
