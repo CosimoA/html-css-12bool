@@ -1,18 +1,21 @@
 
 /* DEBUG */
 
-[class*="col-"]{
-    background-color: rgb(31, 109, 255);
-    margin: 1px;
-    padding: 10px;
-}
-
 *{
     color: white;
     text-align: center;
     font-weight: bold;
 }
 
+h3{
+    color: black;
+    text-align: left;
+}
+
+.row{
+    min-height: 40px;
+
+}
 #green{
     background-color: rgb(0, 255, 0);
 
